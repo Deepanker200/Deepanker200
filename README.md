@@ -4,11 +4,11 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [Project Name](https://github.com/Deepanker200/Project-Name)
+- 🔭 I’m currently working on [Project Name](https://github.com/Deepanker200/launch-pad-december)
 - 🌱 I’m currently learning **React, Node.js**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, JavaScript, Python**
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](mailto:tiwarideepanker@gmail.com)
 - ⚡ Fun fact: I love coding and coffee!
 
 ## Skills
@@ -29,3 +29,5 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-profile)
+
+![Coding](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
