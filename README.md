@@ -7,9 +7,9 @@
 - 🔭 I’m currently working on [Project Name](https://github.com/Deepanker200/launch-pad-december)
 - 🌱 I’m currently learning **React, Node.js**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, JavaScript, Python**
+- 💬 Ask me about **Software Development, Web Development, JavaScript, Python**
 - 📫 How to reach me: [Email](mailto:tiwarideepanker@gmail.com)
-- ⚡ Fun fact: I love coding and coffee!
+- ⚡ Fun fact: I like logical interpretations than human ones!
 
 ## Skills
 
