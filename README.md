@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Deepanker 👋
 
-<!--
-**Deepanker200/Deepanker200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=Deepanker200&color=blue)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Project Name](https://github.com/Deepanker200/Project-Name)
+- 🌱 I’m currently learning **React, Node.js**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Development, JavaScript, Python**
+- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- ⚡ Fun fact: I love coding and coffee!
+
+## Skills
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+## GitHub Stats
+
+![Deepanker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepanker200&show_icons=true&hide_border=true)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanker200&layout=compact&hide_border=true)
+
+## Connect with Me
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-profile)
