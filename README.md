@@ -1,6 +1,6 @@
 # Hi there, I'm Deepanker 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Deepanker200&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Deepanker200&color=green)
 
 ## About Me
 
