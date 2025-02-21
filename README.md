@@ -1,5 +1,4 @@
-![Header](./your-header-image-name.png)
-
+![github-header-image](https://github.com/user-attachments/assets/2ab64b3e-8e01-4031-97cb-ff0101397e52)
 
 # Hi there, I'm Deepanker 👋
 
