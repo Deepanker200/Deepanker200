@@ -50,7 +50,8 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-profile)
 
 
+![Coding](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 ## Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Deepanker200&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-![Coding](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
