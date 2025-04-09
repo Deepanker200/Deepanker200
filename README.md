@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [Project Name](https://github.com/Deepanker200/launch-pad-december)
+- 🔭 I’m currently working on https://github.com/Deepanker200/javascript-practice
 - 🌱 I’m currently learning **React, Node.js**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Software Development, Web Development, JavaScript, Python**
