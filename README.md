@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [https://github.com/Deepanker200/Namaste-React](https://github.com/Deepanker200/namaste-node)
+- 🔭 I’m currently working on [Node JS](https://github.com/Deepanker200/namaste-node)
 - 🌱 I’m currently learning **React, Node.js**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Software Development, Web Development, JavaScript, Python**
