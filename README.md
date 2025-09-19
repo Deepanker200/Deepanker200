@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [DevTinder](https://github.com/Deepanker200/dev-tinder)
+- 🔭 I’m currently working on [Portfolio](https://github.com/Deepanker200/Portfolio)
 - 🌱 I’m currently learning **React, Node.js**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Software Development, Web Development, JavaScript, Python**
