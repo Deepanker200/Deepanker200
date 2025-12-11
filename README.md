@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [React Practice](https://github.com/Deepanker200/react-practice)
+- 🔭 I’m currently working on [Node.js Practice]([https://github.com/Deepanker200/react-practice](https://github.com/Deepanker200/Nodejs-Practice))
 - 🌱 I’m currently learning **React, Node.js**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Software Development, Web Development, JavaScript, Python**
