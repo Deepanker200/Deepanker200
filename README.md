@@ -50,9 +50,7 @@
 
 
 
-![Coding]
-
-<a href="https://github.com/Deepanker200#contributions">
+![Coding]<a href="https://github.com/Deepanker200#contributions">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
