@@ -50,7 +50,7 @@
 
 
 
-![Github Contributions]
+## GitHub Contributions
 <a href="https://github.com/Deepanker200#contributions">
   <picture>
     <source
