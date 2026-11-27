@@ -50,19 +50,20 @@
 
 
 
-![Coding]<a href="https://github.com/Deepanker200#contributions">
+![Github Contributions]
+<a href="https://github.com/Deepanker200#contributions">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman"
+      srcset="https://raw.githubusercontent.com/Deepanker200/Deepanker200/output/bomberman-contribution-graph-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/bomberman-contribution-graph.svg?game=bomberman"
+      srcset="https://raw.githubusercontent.com/Deepanker200/Deepanker200/output/bomberman-contribution-graph.svg"
     />
     <img
       alt="Bomberman contribution graph"
-      src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/bomberman-contribution-graph.svg?game=bomberman"
+      src="https://raw.githubusercontent.com/Deepanker200/Deepanker200/output/bomberman-contribution-graph.svg"
       width="100%"
     />
   </picture>
